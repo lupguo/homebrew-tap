@@ -10,4 +10,4 @@ brew install lupguo/tap/<name>
 |---|---|---|
 | [landrop](https://github.com/lupguo/landrop) | `brew install lupguo/tap/landrop` | Move text and files between devices on the same LAN |
 
-Casks in `Casks/` are generated and updated automatically by each project's release pipeline (GoReleaser). Do not edit them by hand.
+Casks in `Casks/` are generated and updated automatically by each project's release pipeline (GoReleaser). Do not edit them by hand. Usage and maintenance guide (Chinese): [landrop/docs/homebrew.md](https://github.com/lupguo/landrop/blob/main/docs/homebrew.md).
